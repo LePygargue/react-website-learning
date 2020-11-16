@@ -1,12 +1,13 @@
 import React from 'react';
 import '../../App.css';
 import Footer from '../Footer';
+import Form from '../Form';
 
  function SignUp () {
    return (
       
    <>
-   <h1 className='sign-up'>SIGN UP</h1>
+   <Form/>
    <Footer/>
    </>
 
